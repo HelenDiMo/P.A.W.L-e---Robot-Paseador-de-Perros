@@ -1,8 +1,8 @@
 # 🐾 P.A.W.L-E: Protocolo Automático de Walkies y Limpieza Estándar
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![UI](https://img.shields.io/badge/Interfaz-Polimórfica-ff69b4?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Funcional-success?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastice&logo=python&logoColor=ffdd54)
+![UI](https://img.shields.io/badge/Interfaz-Polimórfica-ff69b4?style=plastic)
+![Status](https://img.shields.io/badge/Status-Funcional-success?style=plastic)
 
 **P.A.W.L-E** es un simulador de robot autónomo diseñado para pasear perros. El proyecto utiliza lógica de programación para que el robot tome sus propias decisiones, gestione su energía y reconozca a sus "clientes" caninos.
 
