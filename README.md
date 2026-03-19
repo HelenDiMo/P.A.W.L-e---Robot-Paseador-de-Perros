@@ -11,8 +11,8 @@
 ## 🚀 Acceso a las Aplicaciones
 He creado dos versiones del robot que comparten el mismo "cerebro" pero se ven de forma diferente:
 
-* 🌸 [**Versión Kawaii**](https://ais-pre-zuhzshpfk53v2elx3nekk7-366529865543.europe-west2.run.app): Una interfaz amigable, con emojis y mensajes cariñosos.
-* ⚙️ [**Versión Técnica (Seriota)**](https://ais-pre-dcriwrnpytpoi2i2tbx5or-366529865543.europe-west2.run.app/): Un enfoque minimalista centrado en los datos y el estado del sistema.
+* 🌸 [**Versión Kawaii**](https://ais-pre-dcriwrnpytpoi2i2tbx5or-366529865543.europe-west2.run.app/): Una interfaz amigable, con emojis y mensajes cariñosos.
+* ⚙️ [**Versión Técnica**](https://ais-pre-zuhzshpfk53v2elx3nekk7-366529865543.europe-west2.run.app): Un enfoque minimalista centrado en los datos y el estado del sistema.
 
 ---
 
