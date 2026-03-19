@@ -16,13 +16,6 @@ He creado dos versiones del robot que comparten el mismo "cerebro" pero se ven d
 
 ---
 
-## 🗺️ Navegación y Prevención de Riesgos
-
-P.A.W.L-E no solo camina, sino que analiza el suelo por donde pasa gracias a su **Radar de Superficie**:
-
-* **Detección de Obstáculos:** En cada paso hay un **30% de probabilidad** de encontrar peligros como charcos, barro, cristales o asfalto caliente.
-* **Esquive Automático:** Si detecta un riesgo, el robot avisa por pantalla y cambia la ruta para proteger al perro.
-* **Gasto de Energía:** Maniobrar para evitar un obstáculo consume un **-2% extra de batería**, lo que obliga al robot a ser más eficiente.
 
 ---
 
@@ -32,6 +25,14 @@ P.A.W.L-E no solo camina, sino que analiza el suelo por donde pasa gracias a su 
 * **Modo Paseo:** Gasta un **12%** de batería mientras juega y pasea normal.
 * **Protocolo de Retorno:** Si la batería baja del **40%** o se queda con **1 sola bolsa**, el robot activa el modo ahorro y vuelve directo a casa gastando solo un **4%**.
 * **Eventos del Azar:** El robot puede recargar energía si sale el **Sol (+10%)** o gastar una **Bolsa (-1)** si el perro hace sus necesidades.
+
+### 🗺️ Navegación y Prevención de Riesgos
+
+P.A.W.L-E no solo camina, sino que analiza el suelo por donde pasa gracias a su **Radar de Superficie**:
+
+* **Detección de Obstáculos:** En cada paso hay un **30% de probabilidad** de encontrar peligros como charcos, barro, cristales o asfalto caliente.
+* **Esquive Automático:** Si detecta un riesgo, el robot avisa por pantalla y cambia la ruta para proteger al perro.
+* **Gasto de Energía:** Maniobrar para evitar un obstáculo consume un **-2% extra de batería**, lo que obliga al robot a ser más eficiente.
 
 ### 💾 Memoria de Usuarios
 El robot tiene "memoria" gracias a un registro de nombres:
