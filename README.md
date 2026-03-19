@@ -1,4 +1,5 @@
-# Robot-Paseador-Perritos
+# P.A.W.L-e---Robot-Paseador-de-Perros
+
 Proyecto individual del curso IA 80h. 
 
 VERSIÓN KAWAII
