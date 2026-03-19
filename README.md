@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastice&logo=python&logoColor=ffdd54)
 ![UI](https://img.shields.io/badge/Interfaz-Polimórfica-ff69b4?style=plastic)
 ![Status](https://img.shields.io/badge/Status-Funcional-success?style=plastic)
+![Google Cloud](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=plastic&logo=google-cloud&logoColor=white)
 
 **P.A.W.L-E** es un simulador de robot autónomo diseñado para pasear perros. El proyecto utiliza lógica de programación para que el robot tome sus propias decisiones, gestione su energía y reconozca a sus "clientes" caninos.
 
